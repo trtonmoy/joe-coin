@@ -243,7 +243,7 @@ th {
 }
 
 .w-icon-nav-menu:before {
-  content: "î˜‚";
+  content: "";
 }
 
 .w-icon-arrow-down:before,
@@ -2246,7 +2246,7 @@ textarea.w-select {
 
 .body {
   background-color: #eae9c0;
-  /* background-image: url("https://uploads-ssl.webflow.com/6517267de47e3fcf5b1868ca/6517425fd4fd7315d851a611_giphy-17.gif"),
+  /* background-image: url("./images/logo.png"),
     radial-gradient(circle, rgba(255, 255, 255, 0.7), rgba(0, 0, 0, 0)),
     url("https://uploads-ssl.webflow.com/6517267de47e3fcf5b1868ca/65185dde5d86eb8b1c8a037a_New%20Project%20(31).png"); */
   background-position: 50%, 0 0, 0 0;
